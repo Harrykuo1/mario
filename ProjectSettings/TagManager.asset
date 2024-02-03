@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - IsGrounded
+  - Die
+  - '!'
+  - CanDestroy
+  - Shiitake
+  - Star
+  - Monster
+  - DestroyMonster
+  - Charactor
+  - turnback
+  - Lv1pipe
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - pipefly
+  - Turnright
+  - Turnleft
+  - JumpBoard
+  - IceBoard
+  - IsGrounded&CanDestroy
+  - JumpBoard2
+  - Turtoise
+  - FireToChar
+  - QuickDie
+  - delete
+  - turndown
+  - turnup
+  - turndown1
+  - turnup1
+  - boss
+  - myfire
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - Priority
+  - Trash
+  - 
+  - turtoise
+  - Charactor
+  - Fire
+  - 
+  - BackGround
+  - boss
+  - laser
+  - 
+  - Block
+  - 
+  - myfire
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Trash
+    uniqueID: 3679374129
+    locked: 0
+  - name: BackGround
+    uniqueID: 2639570989
+    locked: 0
+  - name: Fire
+    uniqueID: 1899811679
+    locked: 0
+  - name: Block
+    uniqueID: 1504687925
+    locked: 0
+  - name: Charactor
+    uniqueID: 2235862477
+    locked: 0
+  - name: Priority
+    uniqueID: 857943395
+    locked: 0
